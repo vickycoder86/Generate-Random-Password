@@ -1,0 +1,13 @@
+go to project
+console
+=>
+npm run build
+then go to project folder and 
+new folder name "bulid" will create
+now 
+https://www.netlify.com/with/react/
+login
+add new site
+manully deploy
+drag and drop
+the only build folder and website will created
